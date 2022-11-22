@@ -59,6 +59,7 @@ Sou estatística de formação :bar_chart:  me aventurando no mundo de processam
  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
 
 
 

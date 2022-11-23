@@ -13,11 +13,13 @@
 
 
 
-Sou estatística de formação :bar_chart:  me aventurando no mundo de processamento de dados e estou me apaixonando a cada dia :purple_heart:!Atualmente estou trabalhando numa empresa de tecnologia👨🏻‍💻, e fazendo uma pós em Data Science 🤓
+Sou estatística de formação :bar_chart:  me aventurando no mundo de processamento de dados e estou me apaixonando a cada dia :purple_heart:!Atualmente estou trabalhando em uma empresa de tecnologia👨🏻‍💻, eestu dando  Data Science 🤓
 
 
 
 <img align="right" height="280" alt="andrypanda" src="https://media.discordapp.net/attachments/767478208625901573/1044604389907759195/PANDA2.gif" />
+
+
 
 
 
@@ -26,7 +28,7 @@ Sou estatística de formação :bar_chart:  me aventurando no mundo de processam
 
 
 - 🛠 &nbsp; No momento estou trablhando com SQL,phyton e BI
-- 👨🏻‍💻 &nbsp; Com o tempo irei colovando meus projetos aqui! [Github](https://github.com/IviTalita/).
+- 👨🏻‍💻 &nbsp; Com o tempo irei colocando meus projetos aqui! [Github](https://github.com/IviTalita/).
 - 📫 &nbsp; Como Falar Comigo: talitaivem@gmail.com.
 
 
@@ -40,7 +42,7 @@ Sou estatística de formação :bar_chart:  me aventurando no mundo de processam
 - ☕: Sempre vai bem.
 - 🚨: Cheia de ideias.
 - :ocean: A calmaria do mar me tras paz.
-- :earth_americas: Pertenço ao mundo.
+- :earth_americas: Pertencente ao mundo.
 
 
 

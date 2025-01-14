@@ -13,7 +13,7 @@
 
 
 
-Sou estatística de formação e cientista de dados 🤓 :bar_chart:  me aventurando no mundo de processamento de dados e estou me apaixonando a cada dia :purple_heart:!Atualmente estou trabalhando em uma empresa de tecnologia👨🏻‍💻
+Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventurando no mundo de processamento de dados e estou me apaixonando a cada dia :purple_heart:!Atualmente estou trabalhando em uma empresa de tecnologia👨🏻‍💻
 
 
 

@@ -17,7 +17,7 @@ Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventur
 
 
 
-<img align="right" height="280" alt="andrypanda" src="https://tenor.com/pt-BR/view/angry-angry-panda-panda-mad-commercial-gif-5416416" //>
+<img align="right" height="280" alt="andrypanda" src="https://tenor.com/pt-BR/view/angry-angry-panda-panda-mad-commercial-gif-5416416"//>
 
 
 

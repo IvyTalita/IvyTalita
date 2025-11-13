@@ -1,116 +1,85 @@
-
 ## Olá 👋, Sou a [Ivy!](https://github.com/IvyTalita/)
 
-
-
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ivytalita/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/talita-raiol-ba3341165/)
 
 
 
 
-### Feliz por você está aqui✨.
+### ✨ Feliz por você estar aqui!
+
+Sou **estatística** e **cientista de dados** de formação 🤓, explorando o universo de **DBA** e me apaixonando cada vez mais por cada desafio do dia a dia 💜📊.
+
+✨ **Curiosa por natureza**, adoro transformar dados em insights e aprender coisas novas constantemente 🚀.  
+🤝 Valorizo o **trabalho colaborativo**, a **troca de conhecimento** e acredito que cada problema é uma oportunidade de crescer 💪💡.
 
 
-
-Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventurando no mundo de DBA e estou me apaixonando a cada dia :purple_heart:!
 
 
 <p align="center">
-  <img src="https://tenor.com/wTdI.gif" alt="Animação legal" width="400"/>
+  <strong>Segunda-feira vibes 😎</strong><br/>
+  <img src="https://media1.tenor.com/m/Y6NqxniRNQcAAAAC/monday-heheh.gif" alt="Animação legal" width="400"/>
 </p>
 
 
 
 
-
-### Falando Sobre Coisas Pessoais:
-
+### 🛠 Ferramentas e Linguagens
 
 
-- 🛠 &nbsp; No momento estou trablhando com SQL, phyton, Pentaho e BI
-- 👨🏻‍💻 &nbsp; Com o tempo irei colocando meus projetos aqui! [Github](https://github.com/IviTalita/).
-- 📫 &nbsp; Como Falar Comigo: talita.fraiol@gmail.com.
-
-
-
-### Meus Favoritos:
-
-
-
-- 💻 &nbsp; Adoro explorar novas tecnologia e construir coisas legais.
-- :zap: Sou ligada no 220W e extremanete curiosa.
-- ☕: Sempre vai bem.
-- 🚨: Cheia de ideias.
-- :ocean: A calmaria do mar me tras paz.
-- :earth_americas: Pertencente ao mundo.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:5px"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Terminal Linux" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin:5px"/>
+  <img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="Sublime Text" width="40" height="40" style="margin:5px"/>
+</p>
 
 
 
 
-### Linguagens e Ferramentas:
+### 💡 O que estou aprendendo
 
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <code><img height="40" src="https://img.icons8.com/color/512/power-bi.png" alt="cpp"/>
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
- <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-  
+
+- DBA avançado e otimização de SQL  
+- Python para automação e análise de dados  
+- BI e visualização avançada  
 
 
 
 
-### Desenvolvedor:
+### 🎯 Favoritos e paixões
 
 
-
-<details>    
-  <summary><b>⚡ Github Stats</b></summary>
-
-
-
- <br />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=IvyTalita&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvyTalita&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-
-
-
-</details>
-
-<details>    
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-      <ul>
-          <li><b>OS:</b> Ubuntu 22.04</li>
-          <li><b>Browser: </b> Firefox Web Browser</li>
-        <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-        <li><b>To Stay Updated:</b> Instagram.</li>
-        <br />
-    </ul>    
-</details>
+- 💻 Explorar novas tecnologias e construir coisas legais  
+- ⚡ Sempre ligada no 220V
+- 🐱 Meus 3 gatos, que deixam meus dias mais divertidos e acolhedores
+- ☕ Café nunca é demais  
+- 🚨 Cheia de ideias  
+- 🌊 A calmaria do mar me traz paz  
+- 🌍 Pertencente ao mundo  
 
 
 
 
-<div align="center">
+### 📈 Minhas estatísticas
 
 
 
-### 💙 Se você gosta dos meus projetos, dê a eles ⭐ e compartilhe com os amigos!
 
 
-Feito com Carinho 💙
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvyTalita&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 
+
+
+
+
+###  Se você gosta dos meus projetos, dê a eles ⭐ e compartilhe com os amigos! 
+                                                                 💙Feito com Carinho💙
 
 
 </div>

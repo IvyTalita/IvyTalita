@@ -13,13 +13,12 @@
 
 
 
-Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventurando no mundo de processamento de dados e estou me apaixonando a cada dia :purple_heart:!Atualmente estou trabalhando em uma empresa de tecnologia👨🏻‍💻
-
+Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventurando no mundo de DBA e estou me apaixonando a cada dia :purple_heart:!
 
 
 <p align="center">
-  <img src="meu-gif.gif" alt="Animação legal" width="400"/>
-</p> src="https://tenor.com/wTdI.gif// >
+  <img src="https://tenor.com/wTdI.gif" alt="Animação legal" width="400"/>
+</p>
 
 
 
@@ -29,9 +28,9 @@ Sou estatística e cientista de dados de formação 🤓 :bar_chart:  me aventur
 
 
 
-- 🛠 &nbsp; No momento estou trablhando com SQL,phyton e BI
+- 🛠 &nbsp; No momento estou trablhando com SQL, phyton, Pentaho e BI
 - 👨🏻‍💻 &nbsp; Com o tempo irei colocando meus projetos aqui! [Github](https://github.com/IviTalita/).
-- 📫 &nbsp; Como Falar Comigo: talitaivem@gmail.com.
+- 📫 &nbsp; Como Falar Comigo: talita.fraiol@gmail.com.
 
 
 

@@ -79,7 +79,7 @@ Sou **estatística** e **cientista de dados** de formação 🤓, explorando o u
 
 
 ###  Se você gosta dos meus projetos, dê a eles ⭐ e compartilhe com os amigos! 
-                                                                 💙Feito com Carinho💙
+                                                           💙Feito com Carinho💙
 
 
 </div>

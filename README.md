@@ -8,7 +8,7 @@
 
 ### ✨ Feliz por você estar aqui!
 
-Sou **estatística** e **cientista de dados** de formação 🤓, explorando o universo de **DBA** e me apaixonando cada vez mais por cada desafio do dia a dia 💜📊.
+Sou **Estatística** e **Cientista de Dados** de formação 🤓, explorando o universo de **DBA** e me apaixonando cada vez mais por cada desafio do dia a dia 💜📊.
 
 ✨ **Curiosa por natureza**, adoro transformar dados em insights e aprender coisas novas constantemente 🚀.  
 🤝 Valorizo o **trabalho colaborativo**, a **troca de conhecimento** e acredito que cada problema é uma oportunidade de crescer 💪💡.
@@ -52,7 +52,7 @@ Sou **estatística** e **cientista de dados** de formação 🤓, explorando o u
 
 
 
-### 🎯 Favoritos e paixões
+### 🎯 Curiosidades e Amores 
 
 
 - 💻 Explorar novas tecnologias e construir coisas legais  
